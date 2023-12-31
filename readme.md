@@ -8,6 +8,12 @@
 
 ## Implementation
 
+### Demo - Active States
+
+<p align="center">
+  <img src="./assets/readme/demo.gif" alt="demo" width="500px">
+  </p>
+  
 ### Desktop
 
 <p align="center">
@@ -27,10 +33,11 @@
   <img src="./assets/readme/mobile.png" alt="mobile" width="500px">
   </p>
 
-## Demo
+### Links
 
-<p align="center">
-  <img src="./assets/readme/demo.gif" alt="demo" width="500px">
-  </p>
+- Live Site URL: [here](https://asmaahamid02.github.io/portfolio-clone/)
 
-## Online Demo
+## Author
+
+- Website - [Asmaa Hamid](https://linktr.ee/asmaahamid02)
+- Frontend Mentor - [@asmaahamid02](https://www.frontendmentor.io/profile/asmaahamid02)
