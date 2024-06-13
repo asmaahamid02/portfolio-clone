@@ -1,5 +1,11 @@
 # Portfolio Clone
 
+## Techs
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+
 ## Design
 
 <p align="center">
